@@ -1,307 +1,233 @@
-<h1 align="center">Hi 👋, I'm Mahendra Singh Khati</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer • Software Architecture • Distributed Systems • AI Engineering
-</h3>
+# Mahendra Singh Khati
+
+### Backend Engineer • Distributed Systems • AI Workflow Platforms
 
 <p align="center">
-Building scalable backend systems, event-driven architectures, AI-powered workflows, and reliable production-grade platforms.
+Building scalable backend architectures, event-driven systems, AI-powered workflows,
+and high-throughput data platforms.
 </p>
 
-<p align="center">
+<br/>
 
-<a href="https://github.com/mrmahendra27">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/mahendra-khati-646a60189">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/mahendra-khati-646a60189/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/mrmahendra2">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:mkhati47@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</p>
+</div>
 
 ---
 
-# 🚀 About Me
+<div align="center">
 
-I’m a Software Engineer focused on building backend systems that scale reliably in real-world production environments.
+# 🧠 Engineering Profile
 
-Over the past 6+ years, I’ve evolved from feature-level development to owning backend architecture decisions, designing event-driven workflows, and improving system reliability under load. My work has centered around distributed systems, asynchronous processing, queue-driven architectures, and scalable backend platforms across SaaS environments.
+<table>
+<tr>
 
-I’m particularly interested in:
-- Software Architecture
-- Distributed Systems
-- AI Engineering
+<td width="33%" valign="top" align="left">
+
+## ⚙️ Systems
+
+- Distributed Architectures
 - Event-Driven Workflows
-- Backend Scalability
-- Intelligent Automation
+- Queue Orchestration
+- Async Processing
+- Workflow Reliability
+- Retry Mechanisms
 
-I enjoy solving legacy bottlenecks, improving performance, and designing systems that remain maintainable and predictable as complexity grows.
+</td>
 
----
+<td width="33%" valign="top" align="left">
 
-# 🏢 Professional Experience
-
-## 🚀 Entrata — Software Engineer
-📍 Pune, Maharashtra  
-🗓️ Aug 2024 — Present
-
-### Backend & Platform Engineering
-
-- Architected asynchronous workflows using RabbitMQ and AWS SQS
-- Built scalable scheduled and event-triggered systems using AWS EventBridge
-- Designed retry-safe idempotent consumers and structured failure handling
-- Improved throughput and reduced queue-processing backlog under load
-- Integrated Redis caching and rate-control systems
-- Improved observability using CloudWatch and New Relic
-- Contributed to PHP 8.3 platform migration and backend modernization
-- Led backend architecture spikes, TRDs, and POCs
-- Coordinated engineering execution for major backend initiatives
-
-### 🤖 AI Maintenance Request Assistant
-
-Worked as part of a team to build an AI-powered maintenance request assistant that simplified issue reporting workflows for residents.
-
-#### Contributions
-
-- Integrated Amazon Bedrock for AI-powered request understanding
-- Worked with LiteLLM and Python orchestration workflows
-- Utilized RAG (Retrieval-Augmented Generation) patterns
-- Built backend workflow orchestration using:
-  - AWS EventBridge
-  - AWS SQS
-  - RabbitMQ
-- Integrated AWS services including:
-  - IAM
-  - S3
-- Contributed to intelligent workflow automation and backend coordination systems
-
-### 🏆 AI Inspection Tool — Hackathon Winner
-
-Part of a hackathon-winning team that developed an AI inspection platform capable of detecting maintenance issues from uploaded images and videos.
-
-#### Highlights
-
-- AI-assisted image and video analysis workflows
-- Intelligent issue detection systems
-- Automated backend processing pipelines
-- Event-driven orchestration using:
-  - EventBridge
-  - AWS SQS
-  - RabbitMQ
-
----
-
-## ⚡ WeAssemble — Backend Engineer
-📍 Mumbai, Maharashtra  
-🗓️ Oct 2021 — Aug 2024
-
-### Highlights
-
-- Built scalable REST APIs using Laravel and FastAPI
-- Increased scraping throughput by **50%** using concurrency optimization
-- Reduced database latency by **35%** through indexing redesign and query optimization
-- Designed ETL pipelines for large-scale datasets
-- Optimized thread-pool concurrency systems
-- Solved complex legacy backend inconsistencies
-- Participated in backend architecture discussions and code reviews
-
----
-
-## 🛠️ Sanjar E Solutions — Backend Developer
-📍 Mumbai, Maharashtra  
-🗓️ Feb 2020 — Sep 2021
-
-### Highlights
-
-- Developed REST APIs using Laravel and Node.js
-- Designed optimized database schemas
-- Implemented secure authentication systems
-- Worked closely with frontend and QA teams
-- Documented architecture and deployment workflows
-
----
-
-# ⚙️ Tech Stack
-
-## 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=php,python,js,ts" />
-</p>
-
----
-
-## 🚀 Backend & Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,fastapi" />
-</p>
-
----
-
-## ☁️ Cloud, Infrastructure & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,redis,terraform" />
-</p>
-
-### Additional Tools & Platforms
-
-- RabbitMQ
-- AWS SQS
-- AWS EventBridge
-- CloudWatch
-- New Relic
-- CI/CD
-- Linux
-- Git
-- Shell Scripting
-
----
-
-## 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
----
-
-## 🤖 AI / ML & Intelligent Systems
+## 🤖 AI Platforms
 
 - Amazon Bedrock
+- RAG Pipelines
 - LiteLLM
-- RAG (Retrieval-Augmented Generation)
 - AI Agents
-- LLM Applications
-- AI-Assisted Development
-- Intelligent Automation
-- Machine Learning Systems
+- Conversational Systems
+- Context Orchestration
+
+</td>
+
+<td width="33%" valign="top" align="left">
+
+## 📊 Data & APIs
+
+- High-Throughput APIs
+- ETL Pipelines
+- PostgreSQL Optimization
+- Data Processing
+- Concurrency Patterns
+- Analytics Systems
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-# 🏗️ Engineering Focus Areas
+# ⚡ Core Stack
 
-- Software Architecture
-- Distributed Systems
-- Event-Driven Architecture
-- System Design
-- Backend Scalability
-- Reliability Engineering
-- Performance Engineering
-- Queue Systems
-- Observability & Monitoring
-- Production Optimization
+<div align="center">
 
----
+### Backend & APIs
 
-# 📈 Key Achievements
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-✅ Improved scraping throughput by **50%** using concurrency optimization
+<br/>
 
-✅ Reduced database latency by **35%** through indexing redesign
+### Distributed Systems
 
-✅ Designed scalable event-driven systems using RabbitMQ, AWS SQS, and EventBridge
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/AWS_SQS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS EventBridge](https://img.shields.io/badge/EventBridge-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D9281A?style=flat-square&logo=redis&logoColor=white)
 
-✅ Contributed to AI-powered maintenance workflows using Amazon Bedrock, LiteLLM, and RAG
+<br/>
 
-✅ Built asynchronous backend orchestration pipelines using EventBridge, SQS, and RabbitMQ
+### AI & Data
 
-✅ Part of hackathon-winning team that developed an AI inspection system for image/video-based issue detection
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-AI_Orchestration-orange?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-✅ Delivered production-safe PHP 8.3 migration initiatives
-
-✅ Led backend architecture spikes and technical initiatives
-
-✅ Improved observability through centralized logging systems
+</div>
 
 ---
 
-# 🧠 Engineering Philosophy
-
-> Great engineering is not just about writing code —
-> it's about designing systems that remain scalable,
-> maintainable, observable, resilient, and operationally efficient over time.
-
-Most motivated by building backend systems that other engineers trust:
-scalable, resilient, observable, and thoughtfully engineered.
+# 🚀 Featured Architectures
 
 ---
 
-# 📊 GitHub Stats
+## ⚙️ Event-Driven Workflow Platform
 
-<p align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=mrmahendra27&show_icons=true&theme=tokyonight"
-/>
+### Challenge
 
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmahendra27&layout=compact&theme=tokyonight"
-/>
+Critical operational workflows depended on synchronous execution paths and tightly coupled retry logic, making recurring workflows and delayed retries difficult to manage reliably.
 
-</p>
+</td>
 
----
+<td width="50%" valign="top">
 
-# 🔥 GitHub Streak
+### Solution
 
-<p align="center">
+Designed distributed orchestration pipelines using RabbitMQ, AWS EventBridge, and Amazon SQS to support delayed execution, distributed retries, recurring processing, and fault-isolated workflow stages.
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=mrmahendra27&theme=tokyonight"
-/>
+</td>
+</tr>
+</table>
 
-</p>
+### Impact
+- Eliminated blocking retry logic
+- Improved resiliency of asynchronous workflows
+- Reduced duplicate event processing
+- Increased operational reliability under failure conditions
 
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/mahendra-khati-646a60189/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mkhati47@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mrmahendra27">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+`PHP` `RabbitMQ` `AWS SQS` `AWS EventBridge` `Redis` `PostgreSQL`
 
 ---
 
-# 🚀 Current Focus
+## 🤖 Smart Maintenance Assistant
 
-```txt
-Software Architecture
-Distributed Systems
-AI Engineering
-AI Agents
-RAG Systems
-Machine Learning Systems
-Event-Driven Architecture
-Backend Scalability
-Production Reliability
-System Design
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Challenge
+
+Operational workflows relied on repetitive intake processes and manual triage, creating delays and fragmented context gathering.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Solution
+
+Built an AI-powered conversational workflow platform using Amazon Bedrock, LiteLLM, retrieval pipelines, and asynchronous orchestration workflows for intelligent backend automation.
+
+</td>
+</tr>
+</table>
+
+### Impact
+- Reduced manual operational triage
+- Improved contextual data collection
+- Minimized unnecessary escalations
+- Established reliable AI orchestration boundaries
+
+`Amazon Bedrock` `LiteLLM` `RAG` `Python` `AWS SQS` `PostgreSQL`
 
 ---
 
-<p align="center">
+## 📊 Distributed Data Intelligence Platform
 
-⚡ Building scalable systems & intelligent platforms ⚡
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</p>
+### Challenge
+
+Large-scale ingestion and analytics workflows were bottlenecked by synchronous scraping pipelines and inefficient database access patterns.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Solution
+
+Built concurrent scraping and ETL pipelines using Python, Selenium, Pandas, and PostgreSQL with optimized indexing and scalable analytical APIs.
+
+</td>
+</tr>
+</table>
+
+### Impact
+- Increased scraping throughput by **50%**
+- Reduced database latency by **35%**
+- Improved analytical processing reliability
+
+`Python` `FastAPI` `PostgreSQL` `Selenium` `Pandas` `Matplotlib`
+
+---
+
+# 📈 Engineering Interests
+
+<div align="center">
+
+| Distributed Systems | AI Workflow Orchestration | Backend Reliability |
+|---|---|---|
+| Event-Driven Architectures | Retrieval-Augmented Systems | High-Performance APIs |
+| Workflow Automation | Scalable Data Platforms | Platform Engineering |
+
+</div>
+
+---
+
+<div align="center">
+
+### “Scalable systems are built through explicit architecture, observability, and reliable execution boundaries.”
+
+</div>
