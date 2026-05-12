@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahendra Singh Khati</h1>
 
 <h3 align="center">
-Backend Engineer • Distributed Systems • Platform Engineering
+Software Engineer • Distributed Systems • Platform Engineering
 </h3>
 
 <p align="center">
